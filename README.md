@@ -1,9 +1,9 @@
 # magazine
 Repo for the page with the magazine from the freeCodeCamp certification program
 
-## Verwendete Technologien:
+**Technologies used:**
 - HTML
 - CSS
 
-## Projekte ansehen
-Sie können sich dieses Projekt unter dem folgenden [Link](https://dana-skydanova.github.io/magazine/) ansehen
+**Live Demo:**  
+You can view this project at the following link: [Magazine](https://dana-skydanova.github.io/magazine/)
